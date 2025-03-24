@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://mathewjordan.github.io/ramp-demo
+
+# Sitemaps
+Sitemap: https://mathewjordan.github.io/ramp-demo/sitemap.xml

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8881],{58881:function(e){e.exports=JSON.parse('{"collection":"https://digital.lib.utk.edu/assemble/collection/collections/rfta","components":{"viewer":"ramp"}}')}}]);
